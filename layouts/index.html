@@ -1,0 +1,21 @@
+{{ partial "header.html" }}
+  <!-- Begin page content -->
+    {{ .Content }}
+    <hr />
+    <h1 class="mt-2">I want to...</h1>
+    <ul>
+      {{ range .Site.Sections }}
+      {{ if eq .Section "excuses" }}
+      {{ range .Pages }}
+      {{ if eq $.File.UniqueID .File.UniqueID }}
+      <li>{{ .Description }}</li>
+      {{ else }}
+      <li><a href="{{ .RelPermalink }}">{{ .Description }}</a></li>
+      {{ end }}
+      {{ end }}
+      {{ end }}
+      {{ end }}
+    </ul>
+  </main>
+</body>
+{{ partial "footer.html" }}
