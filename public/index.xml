@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Jun 2020 19:33:49 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Working From Home</title>
+      <link>http://example.org/excuses/working-from-home/</link>
+      <pubDate>Thu, 25 Jun 2020 19:33:49 -0400</pubDate>
+      
+      <guid>http://example.org/excuses/working-from-home/</guid>
+      <description>To our valued, hard-working employees,
+As a leadership team, we are happy to say that our company has been doing extraordinarily well during this unprecedented time. We are impressed with your dedication and ability to not only do your job from home, but sometimes vastly exceed expectations. We have received questions from a number of you about whether or not this can be a permanent change once things begin to prematurely re-open.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Thu, 25 Jun 2020 19:32:40 -0400</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>About us.</description>
+    </item>
+    
+    <item>
+      <title>Layoffs_slow_growth</title>
+      <link>http://example.org/excuses/layoffs-slow-growth/</link>
+      <pubDate>Wed, 24 Jun 2020 23:03:43 -0400</pubDate>
+      
+      <guid>http://example.org/excuses/layoffs-slow-growth/</guid>
+      <description>Dear valued employee,
+We are living through extraordinary times. The unprecedented events brought forth by COVID-19 have impacted businesses large and small. Neighborhood stores run by small families have been forced to close after decades in business, while large corporations have been forced to adjust their imaginary growth projections for their shareholders. Clearly, nobody is immune to this pandemic.
+A few short weeks ago, I stood in front of you and showed you graphs and charts that represented our tremendous financial growth.</description>
+    </item>
+    
+    <item>
+      <title>Layoffs - Business Division</title>
+      <link>http://example.org/excuses/layoffs-business-division/</link>
+      <pubDate>Wed, 24 Jun 2020 22:57:10 -0400</pubDate>
+      
+      <guid>http://example.org/excuses/layoffs-business-division/</guid>
+      <description>Dear valued employee of a business division that I didn&amp;rsquo;t like anyway,
+During this unprecedented time in human history, our company is being forced to make incredibly challenging decisions. Faced with the prospect of challenging economic times for the forseeable future, our leadership team has had to spend a great deal of time considering our strategic alignment with the needs of our customers.
+Unfortunately, after many long hours of repeating the words &amp;ldquo;strategic,&amp;rdquo; &amp;ldquo;differentiator,&amp;rdquo; and &amp;ldquo;go to market,&amp;rdquo; the leadership team has made the difficult decision to dissolve your area of the business.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://example.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/contact/</guid>
+      <description>We are currently working on our next generation email contact system, which will use an AWS Lambda hosted microservice to generate an SQS message that is picked up by 3 microservices: one to send us an email via SNS, one to log the same content to CloudWatch, and one to store the email in S3.
+In the meantime, we ask that you simply send us an email directly via your email client.</description>
+    </item>
+    
+    <item>
+      <title>Investors</title>
+      <link>http://example.org/investors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/investors/</guid>
+      <description>COVID-19 Excuse as a Service is changing the way people handle interactions with each other. We&amp;rsquo;re disrupting the norms of civility, rearchitecting the functions of social interaction, and enabling difficult conversations during a difficult time. With at least one person that we have spoken to claiming that we have at least a $1 billion valuation, we believe that you will not want to miss out on an opportunity to invest in our unprecedented product.</description>
+    </item>
+    
+    <item>
+      <title>No_pay_raises</title>
+      <link>http://example.org/excuses/no-pay-raises/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/excuses/no-pay-raises/</guid>
+      <description>Dear valued employee who received a perfect score on their appraisal,
+First and foremost, I want to thank you for your continued dedication to the nebulous values of our company that you received on a business card during your orientation a few years ago. It&amp;rsquo;s employees like you that drive innovation and excellence within our company. Your efforts throughout this year have earned you the respect of your peers, delivered business value that far exceeds your salary, and set us up for future success.</description>
+    </item>
+    
+    <item>
+      <title>Personal Boundaries</title>
+      <link>http://example.org/excuses/personal-boundaries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/excuses/personal-boundaries/</guid>
+      <description>Dear Employee,
+As you have certainly noticed, these unprecedented times are creating chaos across the fine boundary that separates our personal and professional lives. Far from being an orderly and productive endeavor, working from home often means increased stress as we all deal with the needs of our families and jobs. We recognize that this places an enormous amount of stress on you.
+We work in a service economy. This means that most employees of most companies, including this one, are paid based on the value they deliver to the business (and not simply on the number of hours that they sit at a desk).</description>
+    </item>
+    
+    <item>
+      <title>Simple Wedding</title>
+      <link>http://example.org/excuses/simple-wedding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/excuses/simple-wedding/</guid>
+      <description>To our beloved family and friends,
+As many of you are aware, we were planning to get married this year. We couldn&amp;rsquo;t wait to celebrate with each and every one of you as we set ourselves up for our new lives saddled with over $20,000 in wedding-related debt so that you could enjoy an open bar and gourmet food while still criticizing our choice in centerpiece.
+Unfortunately, COVID-19 has put a damper on our planned ceremonies.</description>
+    </item>
+    
+  </channel>
+</rss>

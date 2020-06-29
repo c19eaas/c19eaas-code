@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-06-25T19:33:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/excuses/</loc>
+    <lastmod>2020-06-25T19:33:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/excuses/working-from-home/</loc>
+    <lastmod>2020-06-25T19:33:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+    <lastmod>2020-06-25T19:32:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/excuses/layoffs-slow-growth/</loc>
+    <lastmod>2020-06-24T23:03:43-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/excuses/layoffs-business-division/</loc>
+    <lastmod>2020-06-24T22:57:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/investors/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/excuses/no-pay-raises/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/excuses/personal-boundaries/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/excuses/simple-wedding/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+  </url>
+  
+</urlset>
